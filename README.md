@@ -1,6 +1,8 @@
 # Hi there 👋 I'm Oscar
 
 🚀 Aspiring Software Developer with a background in logistics, dispatch, and operations. I'm currently transitioning into full-stack development and loving every step of the journey.
+My goal with every project is usability and empathy. I care deeply about building things people can actually use — no matter their age, tech ability, or background. 
+
 
 ---
 
@@ -15,13 +17,16 @@
 - Java • Spring Boot • PostgreSQL  
 - React • Axios • Postman  
 - Git • VS Code • IntelliJ IDEA
+- Python • Flask
+- HTML • CSS 
 
 ---
 
 ### 🧠 Learning Goals:
-- Develop a strong hold of **Java** and backend architecture
-- Understand React state, hooks, and component structure more deeply
-- Build things that make sense to real people
+- Develop a strong hold of **Java (Springboot)**, **Python (Flask),** and backend architecture through practical user-focused apps
+- Deepen my frontend proficiency in React, mastering state, hooks, and reusable component architecture
+- Build intuitive, accessible user experiences that feel helpful and simple
+- Improve my ability to explain technical concepts 
 ---
 
 ### 📫 Let's Connect:
