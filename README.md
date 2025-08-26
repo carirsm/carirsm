@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Oscar
 
-🚀 Aspiring Software Developer with a background in logistics, dispatch, and operations. I'm currently transitioning into full-stack development and loving every step of the journey.
+🚀 Aspiring Software Engineer with a background in logistics, dispatch, and operations. I'm currently transitioning into full-stack development and loving every step of the journey.
 My goal with every project is usability and empathy. I care deeply about building things people can actually use — no matter their age, tech ability, or background. 
 
 
